@@ -37,6 +37,7 @@ public class PixelPropsUtils {
     private static final String[] extraPackagesToChange = {
         "com.android.vending",
         "com.breel.wallpapers20",
+	"com.google.android.apps.wallpaper",
         "com.amazon.avod.thirdpartyclient",
         "com.disney.disneyplus",
         "com.netflix.mediaclient",
